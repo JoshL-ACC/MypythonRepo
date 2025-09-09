@@ -2,6 +2,7 @@
 
 import math
 
+
 def square(x):
     result = x * x
     return result
