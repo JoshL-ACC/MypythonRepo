@@ -1,5 +1,4 @@
 # This is an example file to push to github
-
 import math
 
 
@@ -18,4 +17,3 @@ squarednum = square(8)
 
 print(f"The result of {num} squared is {squarednum} \n")
 print(f"The square root of {squarednum} is {squareroot(squarednum):.0f}")
-
